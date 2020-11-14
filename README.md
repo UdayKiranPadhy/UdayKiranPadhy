@@ -40,7 +40,7 @@ I'm a engineering Student and a to-be developer who is passionate about making o
 
 
 <hr>
-## Github Stats
+<h3>Github Stats</h3>
 <p align="center">
 <a href="https://github.com/UdayKiranPadhy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKiranPadhy&theme=dark" />
