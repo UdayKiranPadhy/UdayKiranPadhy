@@ -59,4 +59,4 @@ Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 
 
 ## A piece Of Happiness
-![snake gif](https://github.com/UdayKiranPadhy/UdayKiranPadhy/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/UdayKiranPadhy/UdayKiranPadhy/blob/output/github-contribution-grid-snake.svg)
