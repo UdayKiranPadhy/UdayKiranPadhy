@@ -11,16 +11,17 @@ A passionate Software Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykiranpadhy&label=Profile%20views&color=0e75b6&style=flat" alt="udaykiranpadhy" /> </p>
 
 
-I've been learning code for 3 years, after switching multiple projects. 
+I've been learning/developing for 3 years, switching multiple projects. 
 I started with HTML, but really found my passion for backend development. 
 My tech stack involves Python, PHP, MySQL, Postgres, React, a few ML and Deep learning aspects and it keeps on growing. 
 I have experience in setting up and managing Cloud Infrastructure, event driven and microservice architecture . However, this does not limit me and I'm open to working on any technology.
+I am also a very good problem Solver , you can checkout my [Leetcode Profile](https://leetcode.com/IamUday).
 Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 
 *   🌍  I'm based in Hyderabad, India
 *   ✉️  You can contact me at [Gmail](mailto:kiranu941@gmail.com)
-*   🧠  I'm currently learning Low level System Design
-*   🤝  I'm open to collaborating on Interseting Python Projects
+*   🧠  I'm currently learning Low level System Design , Data Structures And Algorithms
+*   🤝  I'm open to collaborating on Interseting Projects
 *   ⚡  Learning Never Stops
 
 
@@ -47,7 +48,9 @@ Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 </a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+[Leetcode Profile](https://leetcode.com/IamUday)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be really happy.</b> :)</em>
 
 
 ## Badges <b>My GitHub Stats</b>
@@ -58,5 +61,11 @@ Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 <a href="https://github.com/UdayKiranPadhy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKiranPadhy&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-## A piece Of Happiness
-![snake svg](https://github.com/UdayKiranPadhy/UdayKiranPadhy/blob/output/github-contribution-grid-snake.svg)
+## A piece of happiness watching all my contributation eaten up by snake
+When i was a Kid i used to enjoy playing Snake Xenzia in my keypad Mobile. Watching this refreshes my memories and brings a smile on my face.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UdayKiranPadhy/UdayKiranPadhy/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/UdayKiranPadhy/UdayKiranPadhy/blob/output/github-snake-light.svg" />
+  <img alt="github-snake" src="https://github.com/UdayKiranPadhy/UdayKiranPadhy/blob/output/ocean.svg" />
+</picture>
