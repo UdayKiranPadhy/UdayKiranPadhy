@@ -8,9 +8,6 @@ A passionate Software Developer
 ------------------
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykiranpadhy&label=Profile%20views&color=0e75b6&style=flat" alt="udaykiranpadhy" /> </p>
-
-
 I've been learning/developing for 3 years, switching multiple projects. 
 I started with HTML, but really found my passion for backend development. 
 My tech stack involves Python, PHP, MySQL, Postgres, React, a few ML and Deep learning aspects and it keeps on growing. 
@@ -51,14 +48,6 @@ Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 [Leetcode Profile](https://leetcode.com/IamUday)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be really happy.</b> :)</em>
-
-
-## Badges <b>My GitHub Stats</b>
-<a href="http://www.github.com/UdayKiranPadhy"><img src="https://github-readme-stats.vercel.app/api?username=UdayKiranPadhy&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="UdayKiranPadhy's GitHub stats" /></a>
-
-<a href="http://www.github.com/UdayKiranPadhy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UdayKiranPadhy&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/UdayKiranPadhy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKiranPadhy&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ## A piece of happiness watching all my contributation eaten up by snake
